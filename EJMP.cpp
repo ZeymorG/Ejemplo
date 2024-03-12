@@ -3,6 +3,6 @@
  
 int main () 
 {
-    std::cout << "Hola,;
+    std::cout << "Hola atodos los de la clases;
     return 0;
 }
