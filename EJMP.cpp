@@ -3,6 +3,6 @@
  
 int main () 
 {
-    std::cout << "Hola atodos los de la clases;
+    std::cout << "Hola, FISOW;
     return 0;
 }
